@@ -1,0 +1,138 @@
+digraph {
+	"HP0012759Neurodevelopmental abnormality" -> "HP0001249Intellectual disability"
+	"HP0011446Abnormality of higher mental function" -> "HP0001249Intellectual disability"
+	"HP0012638Abnormal nervous system physiology" -> "HP0012759Neurodevelopmental abnormality"
+	"HP0012638Abnormal nervous system physiology" -> "HP0011446Abnormality of higher mental function"
+	"HP0000707Abnormality of the nervous system" -> "HP0012638Abnormal nervous system physiology"
+	"HP0000118Phenotypic abnormality" -> "HP0000707Abnormality of the nervous system"
+	HP0000001All -> "HP0000118Phenotypic abnormality"
+	"127350 DYSCHONDROSTEOSIS AND NEPHRITIS" [fillcolor=mistyrose shape=box style=filled]
+	"127350 DYSCHONDROSTEOSIS AND NEPHRITIS" -> "HP0001249Intellectual disability"
+	"#614249 MENTAL RETARDATION, AUTOSOMAL RECESSIVE 18; MRT18" [fillcolor=mistyrose shape=box style=filled]
+	"#614249 MENTAL RETARDATION, AUTOSOMAL RECESSIVE 18; MRT18" -> "HP0001249Intellectual disability"
+	"ARGININOSUCCINIC ACIDURIA" [fillcolor=mistyrose shape=box style=filled]
+	"ARGININOSUCCINIC ACIDURIA" -> "HP0001249Intellectual disability"
+	"OROFACIODIGITAL SYNDROME III" [fillcolor=mistyrose shape=box style=filled]
+	"OROFACIODIGITAL SYNDROME III" -> "HP0001249Intellectual disability"
+	"METHYLMALONIC ACIDURIA AND HOMOCYSTINURIA, CBLD TYPE" [fillcolor=mistyrose shape=box style=filled]
+	"METHYLMALONIC ACIDURIA AND HOMOCYSTINURIA, CBLD TYPE" -> "HP0001249Intellectual disability"
+	"MENTAL RETARDATION WITH OPTIC ATROPHY, DEAFNESS, AND SEIZURES" [fillcolor=mistyrose shape=box style=filled]
+	"MENTAL RETARDATION WITH OPTIC ATROPHY, DEAFNESS, AND SEIZURES" -> "HP0001249Intellectual disability"
+	"WOLFRAM SYNDROME, MITOCHONDRIAL FORM" [fillcolor=mistyrose shape=box style=filled]
+	"WOLFRAM SYNDROME, MITOCHONDRIAL FORM" -> "HP0001249Intellectual disability"
+	"Immunodeficiency 38" [fillcolor=mistyrose shape=box style=filled]
+	"Immunodeficiency 38" -> "HP0012759Neurodevelopmental abnormality"
+	"MARFAN LIPODYSTROPHY SYNDROME" [fillcolor=mistyrose shape=box style=filled]
+	"MARFAN LIPODYSTROPHY SYNDROME" -> "HP0012759Neurodevelopmental abnormality"
+	"#605751 SEIZURES, BENIGN FAMILIAL INFANTILE, 2; BFIS2;;CONVULSIONS, BENIGN FAMILIAL INFANTILE, 2; BFIC2" [fillcolor=mistyrose shape=box style=filled]
+	"#605751 SEIZURES, BENIGN FAMILIAL INFANTILE, 2; BFIS2;;CONVULSIONS, BENIGN FAMILIAL INFANTILE, 2; BFIC2" -> "HP0012759Neurodevelopmental abnormality"
+	"#602066 CONVULSIONS, FAMILIAL INFANTILE, WITH PAROXYSMAL CHOREOATHETOSIS;ICCA;;INFANTILE CONVULSIONS AND PAROXYSMAL CHOREOATHETOSIS, FAMILIAL;;ICCA SYNDROME;;PAROXYSMAL KINESIGENIC DYSKINESIA WITH INFANTILE CONVULSIONS; PKD/IC" [fillcolor=mistyrose shape=box style=filled]
+	"#602066 CONVULSIONS, FAMILIAL INFANTILE, WITH PAROXYSMAL CHOREOATHETOSIS;ICCA;;INFANTILE CONVULSIONS AND PAROXYSMAL CHOREOATHETOSIS, FAMILIAL;;ICCA SYNDROME;;PAROXYSMAL KINESIGENIC DYSKINESIA WITH INFANTILE CONVULSIONS; PKD/IC" -> "HP0012759Neurodevelopmental abnormality"
+	"#607745 SEIZURES, BENIGN FAMILIAL INFANTILE, 3; BFIS3;;CONVULSIONS, BENIGN FAMILIAL INFANTILE, 3; BFIC3;;SEIZURES, BENIGN FAMILIAL NEONATAL-INFANTILE; BFNIS" [fillcolor=mistyrose shape=box style=filled]
+	"#607745 SEIZURES, BENIGN FAMILIAL INFANTILE, 3; BFIS3;;CONVULSIONS, BENIGN FAMILIAL INFANTILE, 3; BFIC3;;SEIZURES, BENIGN FAMILIAL NEONATAL-INFANTILE; BFNIS" -> "HP0012759Neurodevelopmental abnormality"
+	"\%601764 SEIZURES, BENIGN FAMILIAL INFANTILE, 1; BFIS1;;CONVULSIONS, BENIGN FAMILIAL INFANTILE, 1; BFIC1" [fillcolor=mistyrose shape=box style=filled]
+	"\%601764 SEIZURES, BENIGN FAMILIAL INFANTILE, 1; BFIS1;;CONVULSIONS, BENIGN FAMILIAL INFANTILE, 1; BFIC1" -> "HP0012759Neurodevelopmental abnormality"
+	"#615158 MITOCHONDRIAL COMPLEX III DEFICIENCY, NUCLEAR TYPE 3; MC3DN3" [fillcolor=mistyrose shape=box style=filled]
+	"#615158 MITOCHONDRIAL COMPLEX III DEFICIENCY, NUCLEAR TYPE 3; MC3DN3" -> "HP0012759Neurodevelopmental abnormality"
+	"CEREBRAL ANGIOPATHY, DYSPHORIC" [fillcolor=mistyrose shape=box style=filled]
+	"CEREBRAL ANGIOPATHY, DYSPHORIC" -> "HP0000707Abnormality of the nervous system"
+	"TRICARBOXYLIC ACID CYCLE, DEFECT OF" [fillcolor=mistyrose shape=box style=filled]
+	"TRICARBOXYLIC ACID CYCLE, DEFECT OF" -> "HP0000707Abnormality of the nervous system"
+	"GRANULOMAS, CONGENITAL CEREBRAL" [fillcolor=mistyrose shape=box style=filled]
+	"GRANULOMAS, CONGENITAL CEREBRAL" -> "HP0000707Abnormality of the nervous system"
+	"KLIPPEL-FEIL SYNDROME 1, AUTOSOMAL DOMINANT" [fillcolor=mistyrose shape=box style=filled]
+	"KLIPPEL-FEIL SYNDROME 1, AUTOSOMAL DOMINANT" -> "HP0000707Abnormality of the nervous system"
+	CYSTINURIA [fillcolor=mistyrose shape=box style=filled]
+	CYSTINURIA -> "HP0000707Abnormality of the nervous system"
+	"SENIOR-LOKEN SYNDROME 6" [fillcolor=mistyrose shape=box style=filled]
+	"SENIOR-LOKEN SYNDROME 6" -> "HP0000707Abnormality of the nervous system"
+	"MOTION SICKNESS" [fillcolor=mistyrose shape=box style=filled]
+	"MOTION SICKNESS" -> "HP0000707Abnormality of the nervous system"
+	"HP0001249Intellectual disability" [fillcolor=lightblue2 shape=ellipse style=filled]
+	"HP0001249Intellectual disability" -> "HP0010864Intellectual disability, severe"
+	"HP0001249Intellectual disability" -> "HP0006889Intellectual disability, borderline"
+	"HP0001249Intellectual disability" -> "HP0006887Intellectual disability, progressive"
+	"HP0001249Intellectual disability" -> "HP0002342Intellectual disability, moderate"
+	"HP0001249Intellectual disability" -> "HP0002187Intellectual disability, profound"
+	"HP0001249Intellectual disability" -> "HP0001256Intellectual disability, mild"
+	"MEGALENCEPHALIC LEUKOENCEPHALOPATHY WITH SUBCORTICAL CYSTS" [fillcolor=mistyrose shape=box style=filled]
+	"HP0001256Intellectual disability, mild" -> "MEGALENCEPHALIC LEUKOENCEPHALOPATHY WITH SUBCORTICAL CYSTS"
+	"THAUVIN-ROBINET-FAIVRE SYNDROME" [fillcolor=mistyrose shape=box style=filled]
+	"HP0001256Intellectual disability, mild" -> "THAUVIN-ROBINET-FAIVRE SYNDROME"
+	"#614207 HYPERPHOSPHATASIA WITH MENTAL RETARDATION SYNDROME 3; HPMRS3;;MENTAL RETARDATION, AUTOSOMAL RECESSIVE 17; MRT17;;MENTAL RETARDATION, AUTOSOMAL RECESSIVE 21; MRT21" [fillcolor=mistyrose shape=box style=filled]
+	"HP0001256Intellectual disability, mild" -> "#614207 HYPERPHOSPHATASIA WITH MENTAL RETARDATION SYNDROME 3; HPMRS3;;MENTAL RETARDATION, AUTOSOMAL RECESSIVE 17; MRT17;;MENTAL RETARDATION, AUTOSOMAL RECESSIVE 21; MRT21"
+	"GONADAL DYSGENESIS, XY TYPE, WITH ASSOCIATED ANOMALIES" [fillcolor=mistyrose shape=box style=filled]
+	"HP0001256Intellectual disability, mild" -> "GONADAL DYSGENESIS, XY TYPE, WITH ASSOCIATED ANOMALIES"
+	"Radioulnar synostosis with amegakaryocytic thrombocytopenia 2" [fillcolor=mistyrose shape=box style=filled]
+	"HP0001256Intellectual disability, mild" -> "Radioulnar synostosis with amegakaryocytic thrombocytopenia 2"
+	"BILE ACID SYNTHESIS DEFECT, CONGENITAL, 6" [fillcolor=mistyrose shape=box style=filled]
+	"HP0001256Intellectual disability, mild" -> "BILE ACID SYNTHESIS DEFECT, CONGENITAL, 6"
+	"SHORT STATURE, HEARING LOSS, RETINITIS PIGMENTOSA, AND DISTINCTIVE FACIES; SHRF" [fillcolor=mistyrose shape=box style=filled]
+	"HP0001256Intellectual disability, mild" -> "SHORT STATURE, HEARING LOSS, RETINITIS PIGMENTOSA, AND DISTINCTIVE FACIES; SHRF"
+	"#613150 MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYEANOMALIES), TYPE A, 2; MDDGA2;;WALKER-WARBURG SYNDROME OR MUSCLE-EYE-BRAIN DISEASE, POMT2-RELATED" [fillcolor=mistyrose shape=box style=filled]
+	"HP0002187Intellectual disability, profound" -> "#613150 MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYEANOMALIES), TYPE A, 2; MDDGA2;;WALKER-WARBURG SYNDROME OR MUSCLE-EYE-BRAIN DISEASE, POMT2-RELATED"
+	"Intellectual developmental disorder with seizures and language delay" [fillcolor=mistyrose shape=box style=filled]
+	"HP0002187Intellectual disability, profound" -> "Intellectual developmental disorder with seizures and language delay"
+	"Trichothiodystrophy 5, nonphotosensitive" [fillcolor=mistyrose shape=box style=filled]
+	"HP0002187Intellectual disability, profound" -> "Trichothiodystrophy 5, nonphotosensitive"
+	"Neurodevelopmental disorder with epilepsy, spasticity, and brain atrophy" [fillcolor=mistyrose shape=box style=filled]
+	"HP0002187Intellectual disability, profound" -> "Neurodevelopmental disorder with epilepsy, spasticity, and brain atrophy"
+	"Epileptic encephalopathy, early infantile, 81" [fillcolor=mistyrose shape=box style=filled]
+	"HP0002187Intellectual disability, profound" -> "Epileptic encephalopathy, early infantile, 81"
+	"MENTAL RETARDATION, AUTOSOMAL RECESSIVE 55" [fillcolor=mistyrose shape=box style=filled]
+	"HP0002187Intellectual disability, profound" -> "MENTAL RETARDATION, AUTOSOMAL RECESSIVE 55"
+	"MICROCEPHALY, SEIZURES, SPASTICITY, AND BRAIN CALCIFICATIONS; MISSBC" [fillcolor=mistyrose shape=box style=filled]
+	"HP0002187Intellectual disability, profound" -> "MICROCEPHALY, SEIZURES, SPASTICITY, AND BRAIN CALCIFICATIONS; MISSBC"
+	"INTELLECTUAL DEVELOPMENTAL DISORDER WITH NEUROPSYCHIATRIC FEATURES; IDDNPF" [fillcolor=mistyrose shape=box style=filled]
+	"HP0002342Intellectual disability, moderate" -> "INTELLECTUAL DEVELOPMENTAL DISORDER WITH NEUROPSYCHIATRIC FEATURES; IDDNPF"
+	"#615877 MICROPHTHALMIA, SYNDROMIC 14; MCOPS14;;MICROPHTHALMIA AND COLOBOMA, WITH OR WITHOUT RHIZOMELIC SKELETAL DYSPLASIA" [fillcolor=mistyrose shape=box style=filled]
+	"HP0002342Intellectual disability, moderate" -> "#615877 MICROPHTHALMIA, SYNDROMIC 14; MCOPS14;;MICROPHTHALMIA AND COLOBOMA, WITH OR WITHOUT RHIZOMELIC SKELETAL DYSPLASIA"
+	"GROWTH RETARDATION, DEAFNESS, FEMORAL EPIPHYSEAL DYSPLASIA, AND LACRIMALDUCT OBSTRUCTION" [fillcolor=mistyrose shape=box style=filled]
+	"HP0002342Intellectual disability, moderate" -> "GROWTH RETARDATION, DEAFNESS, FEMORAL EPIPHYSEAL DYSPLASIA, AND LACRIMALDUCT OBSTRUCTION"
+	"#300749 MENTAL RETARDATION AND MICROCEPHALY WITH PONTINE AND CEREBELLAR HYPOPLASIA;MICPCH;;MICPCH SYNDROME;;MENTAL RETARDATION, X-LINKED, SYNDROMIC, NAJM TYPE; MRXSNA" [fillcolor=mistyrose shape=box style=filled]
+	"HP0002342Intellectual disability, moderate" -> "#300749 MENTAL RETARDATION AND MICROCEPHALY WITH PONTINE AND CEREBELLAR HYPOPLASIA;MICPCH;;MICPCH SYNDROME;;MENTAL RETARDATION, X-LINKED, SYNDROMIC, NAJM TYPE; MRXSNA"
+	"\%605967 ACROPECTORAL SYNDROME; ACRPS;;ACRP SYNDROME;;SYNDACTYLY, PREAXIAL POLYDACTYLY, AND STERNAL DEFORMITY" [fillcolor=mistyrose shape=box style=filled]
+	"HP0002342Intellectual disability, moderate" -> "\%605967 ACROPECTORAL SYNDROME; ACRPS;;ACRP SYNDROME;;SYNDACTYLY, PREAXIAL POLYDACTYLY, AND STERNAL DEFORMITY"
+	"NANCE-HORAN SYNDROME" [fillcolor=mistyrose shape=box style=filled]
+	"HP0002342Intellectual disability, moderate" -> "NANCE-HORAN SYNDROME"
+	"MENTAL RETARDATION, AUTOSOMAL RECESSIVE 24" [fillcolor=mistyrose shape=box style=filled]
+	"HP0002342Intellectual disability, moderate" -> "MENTAL RETARDATION, AUTOSOMAL RECESSIVE 24"
+	"MARTSOLF SYNDROME" [fillcolor=mistyrose shape=box style=filled]
+	"HP0006887Intellectual disability, progressive" -> "MARTSOLF SYNDROME"
+	"MITOCHONDRIAL DNA DEPLETION SYNDROME, MYOPATHIC FORM" [fillcolor=mistyrose shape=box style=filled]
+	"HP0006887Intellectual disability, progressive" -> "MITOCHONDRIAL DNA DEPLETION SYNDROME, MYOPATHIC FORM"
+	"MICROPHTHALMIA, SYNDROMIC 7" [fillcolor=mistyrose shape=box style=filled]
+	"HP0006887Intellectual disability, progressive" -> "MICROPHTHALMIA, SYNDROMIC 7"
+	"HOLOPROSENCEPHALY, RECURRENT INFECTIONS, AND MONOCYTOSIS" [fillcolor=mistyrose shape=box style=filled]
+	"HP0006887Intellectual disability, progressive" -> "HOLOPROSENCEPHALY, RECURRENT INFECTIONS, AND MONOCYTOSIS"
+	"SIMPSON-GOLABI-BEHMEL SYNDROME, TYPE 2" [fillcolor=mistyrose shape=box style=filled]
+	"HP0006887Intellectual disability, progressive" -> "SIMPSON-GOLABI-BEHMEL SYNDROME, TYPE 2"
+	"ARTHROGRYPOSIS, DISTAL, WITH HYPOPITUITARISM, MENTAL RETARDATION,AND FACIAL ANOMALIES" [fillcolor=mistyrose shape=box style=filled]
+	"HP0006887Intellectual disability, progressive" -> "ARTHROGRYPOSIS, DISTAL, WITH HYPOPITUITARISM, MENTAL RETARDATION,AND FACIAL ANOMALIES"
+	"PETERS-PLUS SYNDROME" [fillcolor=mistyrose shape=box style=filled]
+	"HP0006887Intellectual disability, progressive" -> "PETERS-PLUS SYNDROME"
+	"PROLACTIN DEFICIENCY WITH OBESITY AND ENLARGED TESTES" [fillcolor=mistyrose shape=box style=filled]
+	"HP0006889Intellectual disability, borderline" -> "PROLACTIN DEFICIENCY WITH OBESITY AND ENLARGED TESTES"
+	"CHROMOSOME XP11.23-P11.22 DUPLICATION SYNDROME" [fillcolor=mistyrose shape=box style=filled]
+	"HP0006889Intellectual disability, borderline" -> "CHROMOSOME XP11.23-P11.22 DUPLICATION SYNDROME"
+	"BLEPHAROPHIMOSIS WITH PTOSIS, SYNDACTYLY, AND SHORT STATURE" [fillcolor=mistyrose shape=box style=filled]
+	"HP0006889Intellectual disability, borderline" -> "BLEPHAROPHIMOSIS WITH PTOSIS, SYNDACTYLY, AND SHORT STATURE"
+	"EXTRASYSTOLES, MULTIFORM VENTRICULAR, WITH SHORT STATURE, HYPERPIGMENTATION" [fillcolor=mistyrose shape=box style=filled]
+	"HP0006889Intellectual disability, borderline" -> "EXTRASYSTOLES, MULTIFORM VENTRICULAR, WITH SHORT STATURE, HYPERPIGMENTATION"
+	"COLOBOMA-OBESITY-HYPOGENITALISM-MENTAL RETARDATION SYNDROME" [fillcolor=mistyrose shape=box style=filled]
+	"HP0006889Intellectual disability, borderline" -> "COLOBOMA-OBESITY-HYPOGENITALISM-MENTAL RETARDATION SYNDROME"
+	"#212720 MARTSOLF SYNDROME;;CATARACT-MENTAL RETARDATION-HYPOGONADISM" [fillcolor=mistyrose shape=box style=filled]
+	"HP0010864Intellectual disability, severe" -> "#212720 MARTSOLF SYNDROME;;CATARACT-MENTAL RETARDATION-HYPOGONADISM"
+	"#614207 HYPERPHOSPHATASIA WITH MENTAL RETARDATION SYNDROME 3; HPMRS3;;MENTAL RETARDATION, AUTOSOMAL RECESSIVE 17; MRT17;;MENTAL RETARDATION, AUTOSOMAL RECESSIVE 21; MRT21" [fillcolor=mistyrose shape=box style=filled]
+	"HP0010864Intellectual disability, severe" -> "#614207 HYPERPHOSPHATASIA WITH MENTAL RETARDATION SYNDROME 3; HPMRS3;;MENTAL RETARDATION, AUTOSOMAL RECESSIVE 17; MRT17;;MENTAL RETARDATION, AUTOSOMAL RECESSIVE 21; MRT21"
+	NEPHROSIALIDOSIS [fillcolor=mistyrose shape=box style=filled]
+	"HP0010864Intellectual disability, severe" -> NEPHROSIALIDOSIS
+	"SCHINDLER DISEASE, TYPE I" [fillcolor=mistyrose shape=box style=filled]
+	"HP0010864Intellectual disability, severe" -> "SCHINDLER DISEASE, TYPE I"
+	"MENTAL RETARDATION, AUTOSOMAL RECESSIVE 30" [fillcolor=mistyrose shape=box style=filled]
+	"HP0010864Intellectual disability, severe" -> "MENTAL RETARDATION, AUTOSOMAL RECESSIVE 30"
+	"LEUKODYSTROPHY AND ACQUIRED MICROCEPHALY WITH OR WITHOUT DYSTONIA" [fillcolor=mistyrose shape=box style=filled]
+	"HP0010864Intellectual disability, severe" -> "LEUKODYSTROPHY AND ACQUIRED MICROCEPHALY WITH OR WITHOUT DYSTONIA"
+	"LISSENCEPHALY 3" [fillcolor=mistyrose shape=box style=filled]
+	"HP0010864Intellectual disability, severe" -> "LISSENCEPHALY 3"
+}
